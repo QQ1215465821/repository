@@ -9,5 +9,6 @@ public class Test01 {
         System.out.println("idea上操作");
         System.out.println("2020-4-9 00:20:50");
         System.out.println("2020年4月9日00:28:58");
+        System.out.println("idea---2020年4月9日00:31:30");
     }
 }
