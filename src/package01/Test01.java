@@ -5,5 +5,6 @@ public class Test01 {
         System.out.println("6666");
         System.out.println("888");
         System.out.println("主干输出");
+        System.out.println("主干再次输出");
     }
 }
